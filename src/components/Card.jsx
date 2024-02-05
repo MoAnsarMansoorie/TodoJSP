@@ -6,7 +6,7 @@ function Card({ arr ,deleteHandler,editHandler}) {
             <>
                 <div className="row bg-white d-flex justify-content-center align-items-center" style={{ height: "50vh", width: "100%" }}>
                     <div className="col">
-                        <h1>no data is  there ?</h1>
+                        <h1>No data is  there ?</h1>
                     </div>
                 </div>
             </>
